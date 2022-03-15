@@ -28,7 +28,7 @@ export default function App() {
 
 const Footer = () => {
     return (
-        <p className="text-center" style={ FooterStyle }>Designed & coded by <a href="#" target="_blank" rel="noopener noreferrer">Vanessa_Weber</a></p>
+        <p className="text-center" style={ FooterStyle }>Designed & coded by <a href="https://github.com/vanessadjieya" target="_blank" rel="noopener noreferrer">Vanessa_Weber</a></p>
     )
 }
 

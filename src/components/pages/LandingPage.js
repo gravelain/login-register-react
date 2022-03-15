@@ -2,13 +2,12 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 import '../../App.css'
-import BackgroundImage from '../../assets/images/tendance_webdesign_jeux9'
+import BackgroundImage from '../../assets/images/network-6511448_1920.jpg'
 
 export default function LandingPage() {
     return (
         <header style={ HeaderStyle }>
-        <h3 className="main-title text-center"></h3>
-            <h3 className="main-title text-center">login / register page</h3>
+        <h3 className="main-title text-center">Welcome to MooveDee</h3>
             <p className="main-para text-center">join us now and don't waste time</p>
             <div className="buttons text-center">
                 <Link to="/login">
