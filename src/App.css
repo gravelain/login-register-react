@@ -5,6 +5,44 @@
     padding: 0;
     font-family: "Roboto", sans-serif
 }
+.footer{
+    color: #fff;
+}
+.ti {
+    color: white;
+}
+.blocMenu1 a {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.blocMenu1:hover{
+    cursor: pointer;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    background-color: crimson;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    margin-left: 30%;
+    margin-right: 35%;
+}
+.blocMenu1{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    background-color: crimson;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    margin-left: 30%;
+    margin-right: 35%;
+}
 .error{
     border:0.9px solid red;
     padding: 2%;
